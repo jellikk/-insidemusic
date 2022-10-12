@@ -72,7 +72,6 @@ public class MyCamera extends AppCompatActivity {
                                 //여기 추가
                                 cameraProvider.unbind(preview);
 
-
                             }
                             @Override
                             public void onError(ImageCaptureException error) {
