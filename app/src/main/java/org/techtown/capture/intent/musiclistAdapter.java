@@ -16,7 +16,7 @@ public class musiclistAdapter extends BaseAdapter {
     private  int layout;
     private ArrayList<musiclistVO> data;
     private LayoutInflater inflater;
-    // test
+    // test2
 
     //생성자
     public musiclistAdapter(Context context, int layout, ArrayList<musiclistVO> data) {
