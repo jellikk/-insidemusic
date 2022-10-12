@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/album_b.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/bg_fading_edge.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/bg_indicator_active.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/bg_indicator_inactive.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/box.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/btn_b.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/btn_color.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/btn_color_w.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/drawable/camera_b.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1145" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/-insidemusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1145" />
         <entry key="..\:/Users/smhrd/AndroidStudioProjects/SampleCaptureIntent/app/src/main/res/drawable/album.xml" value="0.167" />
         <entry key="..\:/Users/smhrd/AndroidStudioProjects/SampleCaptureIntent/app/src/main/res/drawable/album_b.xml" value="0.167" />
         <entry key="..\:/Users/smhrd/AndroidStudioProjects/SampleCaptureIntent/app/src/main/res/drawable/bg_fading_edge.xml" value="0.1" />
